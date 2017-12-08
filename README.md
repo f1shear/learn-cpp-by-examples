@@ -64,7 +64,7 @@
 - rest api
 - microservice
 - crud
-- cyrptocurrency desktop widget using Qt
+- cryptocurrency desktop widget using Qt
 
 
 
