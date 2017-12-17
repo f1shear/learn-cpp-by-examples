@@ -1,7 +1,7 @@
 
 
 *.swp
-
+dump/*
 # Prerequisites
 *.d
 
